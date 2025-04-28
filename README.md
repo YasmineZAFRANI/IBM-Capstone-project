@@ -67,7 +67,7 @@ Accuracy = (Number of Correct Predictions) / (Total Predictions)
 ## 🧰 Technologies & Tools
 
 - Python, Jupyter Notebooks  
-- Pandas, NumPy, Matplotlib, Seaborn  
+- Pandas, NumPy, Matplotlib, Seaborn, Folium  
 - Scikit-learn, XGBoost  
 - SQL, IBM Db2  
 - IBM Watson Studio
